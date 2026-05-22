@@ -21,7 +21,7 @@ Saat ini backend telah dioptimalkan dan diuji untuk SoC **RK3588**. Dukungan unt
 ### 1. Clone repository
 
 ```sh
-git clone https://github.com/thanhtantran/rk-llama.cpp
+git clone https://github.com/milhcbt/rk-llama.cpp
 cd rk-llama.cpp
 
 # Instal paket yang diperlukan
